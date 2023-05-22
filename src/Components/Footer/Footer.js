@@ -14,11 +14,11 @@ const Footer = () => {
                 <div className="col-md-6 col-sm-12 text-center">
                     <div className="social  ">
                         <h3>Follow me</h3>
-                        <a  href="https://www.facebook.com/Mr.Shamuel" className="mx-2" rel="noreferrer" target="_blank" ><FacebookOutlinedIcon className=""></FacebookOutlinedIcon></a>
-                        <a href="https://twitter.com/sam71060758" className="mx-2" rel="noreferrer" target="_blank"><TwitterIcon className=" "></TwitterIcon></a>
-                        <a href="https://www.instagram.com/shamuel_sam/" className="mx-2" rel="noreferrer" target="_blank"><InstagramIcon className=" "></InstagramIcon></a>
-                        <a href="https://github.com/mr-shamuel" className="mx-2" rel="noreferrer" target="_blank"><GitHubIcon className=" "></GitHubIcon></a>
-                        <a href="https://www.linkedin.com/in/shamuel-/" className="mx-2" rel="noreferrer" target="_blank"><LinkedInIcon className=""></LinkedInIcon></a>
+                        <a  href="https://web.facebook.com/tasbiulolive/" className="mx-2" rel="noreferrer" target="_blank" ><FacebookOutlinedIcon className=""></FacebookOutlinedIcon></a>
+                        <a href="https://twitter.com/hasan_tasbiul" className="mx-2" rel="noreferrer" target="_blank"><TwitterIcon className=" "></TwitterIcon></a>
+                        <a href="https://www.instagram.com/tasbiulolive/" className="mx-2" rel="noreferrer" target="_blank"><InstagramIcon className=" "></InstagramIcon></a>
+                        <a href="https://github.com/Olivensu" className="mx-2" rel="noreferrer" target="_blank"><GitHubIcon className=" "></GitHubIcon></a>
+                        <a href="https://www.linkedin.com/in/tasbiul-hasan-96566b190/" className="mx-2" rel="noreferrer" target="_blank"><LinkedInIcon className=""></LinkedInIcon></a>
 
 
                     </div>
@@ -29,7 +29,7 @@ const Footer = () => {
 
                         <h6 className="xx mb-0"> Designed & Developed by &nbsp; <span className="text-warning"> <Typewriter
                             options={{
-                                strings: ["Md. Shamuel Molla"],
+                                strings: ["Md. Tasbiul Hasan"],
  
                                 autoStart: true,
                                 delay: 70,

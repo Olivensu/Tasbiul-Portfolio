@@ -1,18 +1,18 @@
 import React from 'react';
 
-import img1 from '../../img/online tutor.PNG';
+import img1 from '../../img/projects/nutras.png';
 import img2 from '../../img/emajohn.PNG';
-import img3 from '../../img/cooking.PNG';
-import img4 from '../../img/ship.PNG';
-// import img5 from '../../img/emajohn.PNG';
-import img6 from '../../img/rider app.PNG';
-import img7 from '../../img/cricket.PNG';
-import img8 from '../../img/bank.PNG';
-import img9 from '../../img/pinguin.PNG';
-import img10 from '../../img/slider.PNG';
-import img11 from '../../img/phone.PNG';
-import img12 from '../../img/psd.PNG';
-import img13 from '../../img/monico.PNG';
+import img3 from '../../img/projects/car-garage-site.png';
+import img4 from '../../img/projects/phone-finder.png';
+import img5 from '../../img/projects/education-management-system.PNG';
+import img6 from '../../img/projects/bike-house.png';
+import img7 from '../../img/projects/game-review-site.png';
+import img8 from '../../img/projects/meal-hunting.png';
+import img9 from '../../img/projects/money-master.png';
+import img10 from '../../img/projects/panda-ecommerse-bootstrap.PNG';
+import img11 from '../../img/projects/honda-cbr-review-page.PNG';
+import img12 from '../../img/projects/responsive-football.png';
+import img13 from '../../img/projects/Doctor-portal.PNG';
 
 
 
@@ -23,91 +23,98 @@ import WorkData from './WorkData';
 
 const worksData = [
     {
-        name: "Online Tutor Finder",
-        description: "An Online Tutor Finder is a website where User (students, parents) can easily find their desire tutor. ",
-        github: "https://github.com/Mr-Shamuel/Online-tutor-2022",
-        live: "https://onlinetutor2022.netlify.app/",
+        name: "Nutras - Fitness & Nutrition",
+        description: "Check out this outstanding and versatile fitness and nutrition HTML template and build a well-functional website according to your requirements.",
+        github: "https://github.com/Olivensu/The-Nutras",
+        live: "https://the-nutras.web.app/",
         icon: img1
     },
     
     {
-        name: "Monico Mart ",
-        description: "An ecommerce website.Where Customer can order their product  by categories easily. ",
-        github: "https://github.com/Mr-Shamuel/Monico_mart",
-        live: "https://monicomart.netlify.app/",
+        name: "Doctors Portal",
+        description: "Doctors Portal: Connect with trusted doctors, book appointments, access medical records, and communicate securely for efficient healthcare management and improved patient-doctor interactions.",
+        github: "https://github.com/Olivensu/Doctors-Portal",
+        live: "https://doctors-portals-site.netlify.app/",
         icon: img13
+    },
+    {
+        name: "Educational Management System",
+        description: "Doctors Portal: Connect with trusted doctors, book appointments, access medical records, and communicate securely for efficient healthcare management and improved patient-doctor interactions.",
+        github: "https://github.com/Olivensu/Education-Management-System",
+        live: "https://education-management-system.netlify.app/",
+        icon: img5
     },
     {
         name: "Ema John",
         description: "It is an e-commerce site like as amazon where user can order their desire products easily. ",
-        github: "https://github.com/Mr-Shamuel/Ema-john-Clients",
-        live: "https://ema-john-simple-2ae1c.web.app/",
+        github: "https://github.com/Olivensu/Ema-John-Site",
+        live: "https://shoe-cart-site.netlify.app/",
         icon: img2
     },
     {
-        name: "Cooking Master",
-        description: "It’s a Food recipes site where anyone can search their favorite food also can see the ingredients of the food.",
-        github: "https://github.com/Mr-Shamuel/Cooking-Master-Final",
-        live: "https://mr-shamuel.github.io/Cooking-Master-Final/",
+        name: "Car Garage Site",
+        description: "Car Garage Site is your one-stop destination for all your car repair and maintenance needs. Find reliable garages, book appointments, and access expert advice for keeping your vehicle in top condition.",
+        github: "https://github.com/Olivensu/Car-Garage-Service",
+        live: "https://car-garage-site.web.app/",
         icon: img3
     },
     {
-        name: "CRUISE QUEEN",
-        description: "It's a ticket booking website where user can purchase Ticket and booked cabin room by online.  ",
-        github: "https://github.com/Mr-Shamuel/Burj-Al-Arab",
-        live: "https://mr-shamuel.github.io/Cruise-Queen-js-/",
+        name: "Phone Finder",
+        description: "Phone Finder Website simplifies the process of finding your perfect smartphone. Explore a wide range of models, compare specifications, prices, and user reviews to make an informed decision and find the ideal phone for you.",
+        github: "https://github.com/Olivensu/Phone_finder",
+        live: "https://phones-finder-site.netlify.app/",
         icon: img4
     },
  
     {
-        name: "Dhaka Rider",
-        description: "Dhak Rider website is like uber or pathao. where user can choose their transport and select destination on map.",
-        github: "https://github.com/Mr-Shamuel/Dhaka-Rider",
-        live: "https://dhakarider.netlify.app/",
+        name: "Bike House",
+        description: "Bike-House is the ultimate destination for all things related to biking. Discover a wide selection of bikes, accessories, expert tips, and connect with fellow enthusiasts in this comprehensive biking community.",
+        github: "https://github.com/Olivensu/Bike-House",
+        live: "https://lucky-bike-choose.netlify.app/",
         icon: img6
     },
     {
-        name: "Bd Cricket Player",
-        description: "It's a site where you can buy bangladesh top famous cricket players for you  personal team.!!",
-        github: "https://github.com/Mr-Shamuel/Cricket-player",
-        live: "https://bdplayer.netlify.app/",
+        name: "Game Review Site",
+        description: "Game Review Site is your go-to platform for the latest video game reviews. Explore comprehensive game analyses, ratings, and insights to make informed decisions and stay updated on the gaming industry's latest releases.",
+        github: "https://github.com/Olivensu/Game-Review-Site",
+        live: "https://spider-man-review-site.netlify.app",
         icon: img7
     },
     {
-        name: "Our-Bank",
-        description: "It's a clone of a Bank. Where you can Deposit and withdraw money and you  also can see your current balance.",
-        github: "https://github.com/Mr-Shamuel/Our-Bank",
-        live: "https://mr-shamuel.github.io/Our-Bank/",
+        name: "Meal Hunting",
+        description: "Meal-Hunting Website is your ultimate resource for finding delicious meals. Discover a wide range of restaurants, browse menus, read reviews, and make reservations to satisfy your culinary cravings with ease.",
+        github: "https://github.com/Olivensu/Meal-Hunting",
+        live: "https://meal-hunting.netlify.app/",
         icon: img8
     },
     {
-        name: "Penguin Fashion",
-        description: "It's a site where user can buy their formal , casual and sports shoes. which price are low. ",
-        github: "https://github.com/Mr-Shamuel/Responsive-Assignment-2",
-        live: "https://mr-shamuel.github.io/Responsive-Assignment-2/.",
+        name: "Money Master",
+        description: "Money-Master Website is your ultimate guide to financial success. Explore expert advice, tips, and resources on budgeting, investing, and money management to achieve your financial goals and master your finances.",
+        github: "https://github.com/Olivensu/money-master",
+        live: "https://money-master000.netlify.app",
         icon: img9
     },
     {
-        name: "Fancy-Slider",
-        description: "A website where user can find any kind of picture by searcing their name. Also can make a image slider.",
-        github: "https://github.com/Mr-Shamuel/Fancy-Slider",
-        live: "https://mr-shamuel.github.io/Fancy-Slider/",
+        name: "Panda Ecommerse Bootstrap",
+        description: "Panda-Ecommerce-Bootstrap is a powerful platform for building stunning and functional e-commerce websites. Utilize its robust features, responsive design, and customizable templates to create an exceptional online shopping experience for your customers.",
+        github: "https://github.com/Olivensu/Panda-Commerce-Bootstrap",
+        live: "https://pandas-ecommerce-site.netlify.app",
         icon: img10
 
     },
     {
-        name: "Phone-Crasher",
+        name: "Honda CBR Review Page",
         description: "It's a bootstrap project also completely responsive for mobile desktop and laptop and otheres device. ",
-        github: "https://github.com/Mr-Shamuel/Phone-Crasher-app-Bootstrap-",
-        live: "https://mr-shamuel.github.io/Phone-Crasher-app-Bootstrap-/#",
+        github: "https://github.com/Olivensu/CBR-review-page",
+        live: "https://cbr-honda-350.netlify.app",
         icon: img11
     },
 
     {
-        name: "PSD TO HTML ",
-        description: "It is completely responsive website for mobile, desktop anyother Devices. Here I convert a PSD File to A Html file.",
-        github: "https://github.com/Mr-Shamuel/PSD-TO-HTML",
-        live: "https://mr-shamuel.github.io/PSD-TO-HTML/",
+        name: "Responsive Football",
+        description: "Responsive Football Website delivers the latest football news, scores, and updates. Enjoy a seamless browsing experience on any device, keeping you informed and connected to the world of football anytime, anywhere.",
+        github: "https://github.com/Olivensu/responsive-football",
+        live: "https://olivensu.github.io/responsive-football/",
         icon: img12
     },
 ]

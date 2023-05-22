@@ -77,9 +77,9 @@ const Contact = () => {
                             </span></h2>
 
 
-                            <h6 class=" text-left pt-2 " ><span class="header_icon"><AddIcCallOutlinedIcon sx={{ fontSize: 25, mr: 1 }}></AddIcCallOutlinedIcon></span> 01303001354 </h6>
-                            <h6 class=" text-left pt-2 " ><span class="header_icon"><MailIcon sx={{ fontSize: 25, mr: 1 }}></MailIcon></span> shamuelsam300@gmail.com </h6>
-                            <h6 class=" text-left pt-2 " ><span class="header_icon"><FmdGoodIcon sx={{ fontSize: 25, mr: 1 }}></FmdGoodIcon></span>27/10 Tajmahal road, Mohammadpur Dhaka </h6>
+                            <h6 class=" text-left pt-2 " ><span class="header_icon"><AddIcCallOutlinedIcon sx={{ fontSize: 25, mr: 1 }}></AddIcCallOutlinedIcon></span> 01748541038 </h6>
+                            <h6 class=" text-left pt-2 " ><span class="header_icon"><MailIcon sx={{ fontSize: 25, mr: 1 }}></MailIcon></span> tasbiulhasan08@gmail.com </h6>
+                            <h6 class=" text-left pt-2 " ><span class="header_icon"><FmdGoodIcon sx={{ fontSize: 25, mr: 1 }}></FmdGoodIcon></span>84, old elephant road, Mogbazar, Dhaka </h6>
 
 
                         </div>

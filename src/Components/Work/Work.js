@@ -9,10 +9,10 @@ import { CardActionArea, CardActions } from '@mui/material';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import { Link } from 'react-router-dom';
-import img1 from '../../img/online tutor.PNG';
-import img2 from '../../img/cooking.PNG';
-import img3 from '../../img/emajohn.PNG';
-import img4 from '../../img/ship.PNG';
+import img1 from '../../img/projects/nutras.png';
+import img2 from '../../img/projects/education-management-system.PNG';
+import img3 from '../../img/projects/car-garage-site.png';
+import img4 from '../../img/projects/Doctor-portal.PNG';
 
 const Work = () => {
     return (
@@ -46,16 +46,15 @@ const Work = () => {
                                 />
                                 <CardContent>
                                     <Typography gutterBottom variant="h5" component="div">
-                                        Online Tutor Finder
+                                    Nutras - Fitness & Nutrition
 
                                     </Typography>
                                     <Typography variant="body2" color="text.secondary">
-                                        An Online Tutor Finder is a website where User (students, parents) can easily find
-                                        their desire tutor. Which reduce Human efforts, cost and time.
+                                    Check out this outstanding and versatile fitness and nutrition HTML template and build a well-functional website according to your requirements.
                                         <br></br>
 
 
-                                        <b>Technology:</b> HTML5, CSS3, React.js, Node.js, Express.js, MongoDB,
+                                        <b>Technology:</b> HTML5, CSS3, React.js, 
                                         React Router, CONTEXT API, Firebase Authentication.
 
                                     </Typography>
@@ -64,8 +63,8 @@ const Work = () => {
                             <CardActions >
                                 <div className="projectBtn mx-auto">
 
-                                    <a rel="noreferrer" className="btn btn-outline-primary m-2" style={{ textDecoration: 'none', }} href="https://github.com/Mr-Shamuel/Online-tutor-2022" target="_blank" ><GitHubIcon  ></GitHubIcon> GitHub</a>
-                                    <a rel="noreferrer" className="btn btn-outline-danger m-2 " style={{ textDecoration: 'none', }} href="https://onlinetutor2022.netlify.app/" target="_blank" ><VisibilityIcon className="  "></VisibilityIcon> Live Demo</a>
+                                    <a rel="noreferrer" className="btn btn-outline-primary m-2" style={{ textDecoration: 'none', }} href="https://github.com/Olivensu/The-Nutras" target="_blank" ><GitHubIcon  ></GitHubIcon> GitHub</a>
+                                    <a rel="noreferrer" className="btn btn-outline-danger m-2 " style={{ textDecoration: 'none', }} href="https://the-nutras.web.app/" target="_blank" ><VisibilityIcon className="  "></VisibilityIcon> Live Demo</a>
 
                                 </div>
                             </CardActions>
@@ -87,19 +86,17 @@ const Work = () => {
                                 />
                                 <CardContent>
                                     <Typography gutterBottom variant="h5" component="div">
-                                        Ema John
+                                    Educational Management System
                                     </Typography>
                                     <Typography variant="body2" color="text.secondary">
-                                        It is an e-commerce site like as amazon where user can order their
-                                        products
+                                    Doctors Portal: Connect with trusted doctors, book appointments, access medical records, and communicate securely for efficient healthcare management and improved patient-doctor interactions.
                                         <br></br>
 
 
                                         <b>Technology:</b>  HTML5, CSS3, React.js, Node.js, Express.js, MongoDB, React
                                         Router, Firebase Authentication
 
-                                        <br></br> <b>Responsibility:</b>  Add product to cart, update cart, login through
-                                        Firebase, search product, Getting data through API.
+                                        <br></br> 
 
                                     </Typography>
                                 </CardContent>
@@ -107,8 +104,8 @@ const Work = () => {
                             <CardActions >
                                 <div className="projectBtn mx-auto">
 
-                                    <a rel="noreferrer" className="btn btn-outline-primary m-2" style={{ textDecoration: 'none', }} href="https://github.com/Mr-Shamuel/Ema-john-Clients" target="_blank" ><GitHubIcon  ></GitHubIcon> GitHub</a>
-                                    <a rel="noreferrer" className="btn btn-outline-danger m-2 " style={{ textDecoration: 'none', }} href="https://ema-john-simple-2ae1c.web.app/" target="_blank" ><VisibilityIcon className="  "></VisibilityIcon> Live Demo</a>
+                                    <a rel="noreferrer" className="btn btn-outline-primary m-2" style={{ textDecoration: 'none', }} href="https://github.com/Olivensu/Education-Management-System" target="_blank" ><GitHubIcon  ></GitHubIcon> GitHub</a>
+                                    <a rel="noreferrer" className="btn btn-outline-danger m-2 " style={{ textDecoration: 'none', }} href="https://education-management-system.netlify.app/" target="_blank" ><VisibilityIcon className="  "></VisibilityIcon> Live Demo</a>
 
                                 </div>
                             </CardActions>
@@ -135,18 +132,17 @@ const Work = () => {
                                 />
                                 <CardContent>
                                     <Typography gutterBottom variant="h5" component="div">
-                                        Cooking Master
+                                    Car Garage Site
                                     </Typography>
                                     <Typography variant="body2" color="text.secondary">
-                                        It’s a Food recipes site where anyone can search their favorite food also
-                                        can see the ingredients of the food.
+                                    Car Garage Site is your one-stop destination for all your car repair and maintenance needs. Find reliable garages, book appointments, and access expert advice for keeping your vehicle in top condition.
                                         <br></br>
 
 
-                                        <b>Technology:</b> HTML5, CSS3, Bootstrap, Javascript & API
+                                        <b>Technology:</b> HTML5, CSS3, React.js, Node.js, Express.js, MongoDB, React
+                                        Router, Firebase Authentication
 
-                                        <br></br> <b>Responsibility:</b>  Search food, see ingredients, Load different types of
-                                        food data through API.
+                                        <br></br>
 
                                     </Typography>
                                 </CardContent>
@@ -154,8 +150,8 @@ const Work = () => {
                             <CardActions >
                                 <div className="projectBtn mx-auto">
 
-                                    <a rel="noreferrer" className="btn btn-outline-primary m-2" style={{ textDecoration: 'none', }} href="https://github.com/Mr-Shamuel/Cooking-Master-Final" target="_blank" ><GitHubIcon  ></GitHubIcon> GitHub</a>
-                                    <a rel="noreferrer" className="btn btn-outline-danger m-2 " style={{ textDecoration: 'none', }} href="https://mr-shamuel.github.io/Cooking-Master-Final/" target="_blank" ><VisibilityIcon className="  "></VisibilityIcon> Live Demo</a>
+                                    <a rel="noreferrer" className="btn btn-outline-primary m-2" style={{ textDecoration: 'none', }} href="https://github.com/Olivensu/Car-Garage-Service" target="_blank" ><GitHubIcon  ></GitHubIcon> GitHub</a>
+                                    <a rel="noreferrer" className="btn btn-outline-danger m-2 " style={{ textDecoration: 'none', }} href="https://car-garage-site.web.app/" ><VisibilityIcon className="  "></VisibilityIcon> Live Demo</a>
 
                                 </div>
                             </CardActions>
@@ -176,17 +172,17 @@ const Work = () => {
                                 />
                                 <CardContent>
                                     <Typography gutterBottom variant="h5" component="div">
-                                        Cruise-Queen
+                                    Doctors Portal
                                     </Typography>
                                     <Typography variant="body2" color="text.secondary">
-                                        It a Online Ship Ticket Booking System. So Anyone can easily Buy ticket easily And enjoy their travel.
+                                    Doctors Portal: Connect with trusted doctors, book appointments, access medical records, and communicate securely for efficient healthcare management and improved patient-doctor interactions.
                                         <br></br>
 
 
-                                        <b>Technology:</b> HTML5, CSS3, Bootstrap, Javascript.
+                                        <b>Technology:</b> HTML5, CSS3, tailwind, react, nodejs, ExpressJS, MongoDb
 
                                         <br></br>
-                                        <b>Responsibility:</b> Booked different types of ticket. Can see how much it cost. Calculate every ticket price by javascript.
+                                        
 
                                     </Typography>
                                 </CardContent>
@@ -194,8 +190,8 @@ const Work = () => {
                             <CardActions >
                                 <div className="projectBtn mx-auto">
 
-                                    <a rel="noreferrer" className="btn btn-outline-primary m-2" style={{ textDecoration: 'none', }} href="https://github.com/Mr-Shamuel/Cruise-Queen-js-" target="_blank" ><GitHubIcon  ></GitHubIcon> GitHub</a>
-                                    <a rel="noreferrer" className="btn btn-outline-danger m-2 " style={{ textDecoration: 'none', }} href="https://mr-shamuel.github.io/Cruise-Queen-js-/" target="_blank" ><VisibilityIcon className="  "></VisibilityIcon> Live Demo</a>
+                                    <a rel="noreferrer" className="btn btn-outline-primary m-2" style={{ textDecoration: 'none', }} href="https://github.com/Olivensu/Doctors-Portal" target="_blank" ><GitHubIcon  ></GitHubIcon> GitHub</a>
+                                    <a rel="noreferrer" className="btn btn-outline-danger m-2 " style={{ textDecoration: 'none', }} href="https://doctors-portals-site.netlify.app/" target="_blank" ><VisibilityIcon className="  "></VisibilityIcon> Live Demo</a>
 
                                 </div>
                             </CardActions>

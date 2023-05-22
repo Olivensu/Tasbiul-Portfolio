@@ -1,6 +1,6 @@
 import React from 'react';
 import './Intro.css';
-import img from '../../img/profile2.png';
+import img from '../../img/my-bg.png';
 import Typewriter from 'typewriter-effect';
 import { NavLink } from 'react-router-dom';
 
@@ -10,13 +10,8 @@ const Intro = () => {
         <div className="intro mb-3" id="intro" >
             <div className="left" data-aos="fade-right"
                 data-aos-duration="1500">
-                <div className="imgContainer">
-
-
+                <div className="imgContainer p-5">
                     <img className="" src={img} alt="" />
-
-
-
                 </div>
             </div>
 
@@ -29,7 +24,7 @@ const Intro = () => {
 
                 <div className="wrapper">
                     <h2 className="text-warning">Hello, I'm</h2>
-                    <h1>Md. Shamuel</h1>
+                    <h1>Md. Tasbiul Hasan</h1>
                     <h3 className="xx"> I'm a&nbsp; <Typewriter
                         options={{
                             strings: [" Web Developer", " Designer", " Content Creator"],

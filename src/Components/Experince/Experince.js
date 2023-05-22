@@ -95,7 +95,7 @@ const Experince = () => {
                     <h4> Others <br></br> Skills</h4>
                     <div className="language .row d-flex pb-2">
                         <div className="col-md-6 ">
-                            <h5> <VerifiedIcon className="text-info"></VerifiedIcon>  Photoshop</h5>
+                            <h5> <VerifiedIcon className="text-info"></VerifiedIcon>  Illustrator</h5>
                         </div>
                         <div className="col-md-6 ">
                             <h5> <VerifiedIcon className="text-info"></VerifiedIcon>MS Word </h5>
